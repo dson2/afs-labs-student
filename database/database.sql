@@ -1,8 +1,3 @@
-<<<<<<< HEAD
--- 
-=======
--- this is a test comment test 3
->>>>>>> 0285cdedf4bf2487bb67f2389e3ce7a549d9b856
 -- PostgreSQL database dump
 --
 
