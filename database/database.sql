@@ -1,4 +1,4 @@
--- this is a test comment 2
+-- this is a test comment test 3
 -- PostgreSQL database dump
 --
 
